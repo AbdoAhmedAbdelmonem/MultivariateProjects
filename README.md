@@ -1,4 +1,3 @@
-<img width="1013" height="881" alt="image" src="https://github.com/user-attachments/assets/6fcf2210-7aeb-4540-ba08-27de1a809d49" />
 
 # 📊 Multivariate Analysis
 
