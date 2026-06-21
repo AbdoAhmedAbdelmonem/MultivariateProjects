@@ -1,4 +1,4 @@
-# 📊 Multivariate Analysis
+<img width="1013" height="881" alt="image" src="https://github.com/user-attachments/assets/6fcf2210-7aeb-4540-ba08-27de1a809d49" /># 📊 Multivariate Analysis
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" width="100%">
@@ -96,11 +96,8 @@ After completing this course, students should be able to:
 
 ```bash
 .
-├── Assignments/
-├── Projects/
-├── Notebooks/
-├── Reports/
-├── Datasets/
+├── Assignment/
+├── Final Project/
 └── README.md
 ```
 
@@ -109,7 +106,7 @@ After completing this course, students should be able to:
 ## 📈 Data-Driven Decision Making
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1556155092-490a1ba16284.png" width="80%">
+  <img src="https://i.sstatic.net/HvGpE.jpg" width="80%">
 </p>
 
 Multivariate methods are widely used in:
