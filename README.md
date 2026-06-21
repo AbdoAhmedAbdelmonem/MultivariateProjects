@@ -106,7 +106,7 @@ After completing this course, students should be able to:
 ## 📈 Data-Driven Decision Making
 
 <p align="center">
-  <img src="" width="80%">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250127163850819078/download9.webp" width="80%">
 </p>
 
 Multivariate methods are widely used in:
